@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋
 
+🚧 This page is under construction 🚧
+- 🛠️ I am currently working as a Senior Software Developer at a global cross-border payments company.
+- 📎 I write Go code every day.
+- 👤 Pronouns: he/him.
 <!--
 **diegolatorre16/diegolatorre16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
