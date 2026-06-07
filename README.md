@@ -1,7 +1,7 @@
 ## Hi 👋
 
 🚧 This page is under construction 🚧
-- 🛠️ I am currently working as a Senior Software Developer at a global cross-border payments company.
+- 🛠️ I am currently working as a Senior Software Engineer at a global cross-border payments company.
 - 📎 I write Go code every day.
 - 👤 Pronouns: he/him.
 <!--
